@@ -49,5 +49,3 @@ Contributions are welcome! Feel free to fork the repo, add your solutions, and c
 ---
 
 Happy coding! 🚀
-
-```
